@@ -276,6 +276,8 @@ Small commits make the project history easier to understand, review, debug, and 
 
 ## 🚀 What's Next?
 
-So far, all work has been stored on your local machine.
+So far, you've learned how to use Git to manage your project locally by creating repositories, tracking changes, staging files, and creating commits.
 
-In the next chapter, you'll learn how to connect your local repository to **GitHub**, create a remote repository, and use commands like `git remote`, `git push`, `git pull`, and `git fetch` to collaborate and back up your code.
+However, in real-world software development, projects are rarely developed by a single person on a single computer. Teams need a central place to share code, collaborate, review changes, and maintain a backup of the project.
+
+In the next chapter, you'll learn about GitHub & Remote Repositories—how to connect your local repository to GitHub, upload your code using git push, download updates with git pull and git fetch, and collaborate with other developers on the same project.
