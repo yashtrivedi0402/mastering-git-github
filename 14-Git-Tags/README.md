@@ -342,36 +342,19 @@ No. Tags must be pushed explicitly using `git push origin <tag-name>` or `git pu
 
 ---
 
-## 🎉 Congratulations!
+## 🚀 What's Next?
 
-You have now completed the **core Git & GitHub learning path**.
+So far, you've learned how to:
 
-You now understand:
+* Initialize and configure Git repositories
+* Track changes using commits
+* Work with branches and merge them
+* Resolve merge conflicts
+* Temporarily save work using Git Stash
+* Mark important project versions using Git Tags
 
-* Git Fundamentals
-* Version Control
-* GitHub & Remote Repositories
-* Git Architecture
-* Branching & Merging
-* Merge Conflicts
-* Git Stash
-* Git Tags
+These concepts form the foundation of Git and are used in almost every software development project.
 
-With these concepts, you have a strong foundation to start collaborating on real-world software projects.
+However, as projects grow and multiple developers work on the same codebase, maintaining a clean and readable commit history becomes increasingly important.
 
-### 🚀 What's Next?
-
-In future chapters, you can continue with advanced Git topics such as:
-
-* Rebasing
-* Cherry-pick
-* Reset vs Revert
-* Git Reflog
-* Interactive Rebase
-* Git Hooks
-* Git Bisect
-* Git Submodules
-* Git Worktrees
-* GitHub Pull Requests & Code Reviews
-* GitHub Actions (CI/CD)
-* Open Source Contribution Workflow
+In the next chapter, you'll explore **Git Rebase**—a powerful feature that helps create a linear commit history by replaying commits instead of creating unnecessary merge commits. You'll learn how rebasing differs from merging, when it should be used, how to resolve rebase conflicts, and the best practices followed by professional development teams.
